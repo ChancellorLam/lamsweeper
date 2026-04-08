@@ -1,1 +1,4 @@
 .idea/
+
+# Ignore build artifacts
+obj/
