@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Lamsweeper.Core\Lamsweeper.Core.csproj" />
+    <ProjectReference Include="..\Lamsweeper.Engine\Lamsweeper.Engine.csproj" />
+    <ProjectReference Include="..\Lamsweeper.Solvers\Lamsweeper.Solvers.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

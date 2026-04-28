@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Lamsweeper.Backend/Lamsweeper.Backend.csproj" />
+  <Project Path="Lamsweeper.Core/Lamsweeper.Core.csproj" />
+  <Project Path="Lamsweeper.Engine/Lamsweeper.Engine.csproj" />
+  <Project Path="Lamsweeper.Simulation/Lamsweeper.Simulation.csproj" />
+  <Project Path="Lamsweeper.Solvers/Lamsweeper.Solvers.csproj" />
+</Solution>
